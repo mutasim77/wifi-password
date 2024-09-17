@@ -1,5 +1,5 @@
-# wifi-password-retriever
-`wifi-password-retriever` is a command-line tool that retrieves the password of the currently connected Wi-Fi network on macOS. It provides a simple and quick way to access Wi-Fi passwords without navigating through system preferences.
+# wifi-password 🔐 
+`wifi-password` is a command-line tool that retrieves the password of the currently connected Wi-Fi network on macOS. It provides a simple and quick way to access Wi-Fi passwords without navigating through system preferences.
 
 ## Features
 - Retrieves the password of the currently connected Wi-Fi network
@@ -8,13 +8,6 @@
 - Simple and easy-to-use command-line interface
 
 ## Installation
-Using Homebrew
-You can install `wifi-password-retriever` using Homebrew:
-```bash
-brew install wifi-password-retriever
-```
-
-## Manual Installation
 1. Clone this repository:
 ```bash
 git clone https://github.com/mutasim77/wifi-password.git
@@ -42,7 +35,6 @@ sudo wifi-password
 ```
 
 ## Options
-
 `-h, --help`: Show help message and exit
 
 `-v, --verbose`: Enable verbose output
